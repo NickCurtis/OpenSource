@@ -6,4 +6,4 @@ github account: NickSquared\\
 
 slack: curtin\\
 
-![Image of Nick][images/Nick.png]
+![Image of Nick](images/Nick.png)
