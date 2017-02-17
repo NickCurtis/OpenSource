@@ -1,0 +1,4 @@
+#include "MathFunctions.h"
+float sqrt(int x){
+	return 1;
+}
